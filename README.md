@@ -25,7 +25,7 @@ Caso preferível mudar o tipo de produto exibido, alterar a query 'q=celular' pa
 O mockup usado foi criado pela desenvolvedora, que teve referências retiradas do site Dribbble e Behance. O design e protótipo foram feitos no software Figma.
 
 ## COMO INICIAR
-1. Clone este repositório no CMD utilizando o comando "git clone https://github.com/jojrms/ecommerce.git",
+1. Clone este repositório no CMD utilizando o comando "git clone URL_AQUI",
 2. Após finalizado, entre no arquivo e abra em seu editor de código-fonte,
 3. Realize um npm install para baixar todos os módulos node,
 4. Finalize com um 'npm start' para abrir um localhost
